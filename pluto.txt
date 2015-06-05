@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test
+=======
+iaushdas.xc nado
+>>>>>>> a3f82da79f7f0e86850825f32b263df07d85c3ef
